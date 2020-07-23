@@ -10,11 +10,11 @@ import 'fetch-polyfill';
 
 import modalWin1 from './modules/modalWin1';
 import submissionForm from './modules/submissionForm';
+import modalWin2 from './modules/modalWin2';
 
 
 
 
-
-
+modalWin2();
 modalWin1();
 submissionForm();
