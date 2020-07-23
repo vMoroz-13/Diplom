@@ -9,7 +9,7 @@ import 'es6-promise';
 import 'fetch-polyfill';
 
 import modalWin1 from './modules/modalWin1';
-
+import submissionForm from './modules/submissionForm';
 
 
 
@@ -17,3 +17,4 @@ import modalWin1 from './modules/modalWin1';
 
 
 modalWin1();
+submissionForm();
